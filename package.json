@@ -1,0 +1,19 @@
+{
+  "name": "api-node-typescript",
+  "version": "1.0.0",
+  "description": "API Node typescript, Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarosaccomani/api-node-typescript.git"
+  },
+  "author": "Alvaro Tomas Saccomani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarosaccomani/api-node-typescript/issues"
+  },
+  "homepage": "https://github.com/alvarosaccomani/api-node-typescript#readme"
+}
