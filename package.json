@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alvarosaccomani/api-node-typescript/issues"
   },
-  "homepage": "https://github.com/alvarosaccomani/api-node-typescript#readme"
+  "homepage": "https://github.com/alvarosaccomani/api-node-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
